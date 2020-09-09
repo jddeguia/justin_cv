@@ -18,3 +18,17 @@ h1 {
 h3 {
   color: #065c6f;
 }
+
+/*
+.justin{
+  background-color: red;
+}
+*/
+
+.circular {
+  border-radius: 100%;
+}
+
+#name {
+  color: #065c6f;
+}
